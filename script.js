@@ -106,4 +106,9 @@ document.addEventListener('keydown', function (e) {
   }
 });
 
+// Adiciona suporte para clique e toque na tela (mobile)
+document.addEventListener('click', jump);
+document.addEventListener('touchstart', jump);
+
+
 startGame();
