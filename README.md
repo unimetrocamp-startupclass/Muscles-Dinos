@@ -42,15 +42,15 @@ SUMÁRIO
 
 <table><thead><tr><th><h1><a id="_heading=h.gjdgxs"></a>Dados do Cliente</h1></th></tr></thead></table>
 
-Título do Projeto: <**Título do projeto:** no título deve constar, resumidamente, qual problema o software está resolvendo. Ex.: **PneuMático: um trocador automático de pneus**\>. Este título deve ser idêntico ao da planilha “Equipes&Projetos”
+Título do Projeto: **MusclesAndDino: Gameficação da reabilitação muscular**
 
-Cliente: &lt;razão social/nome do cliente&gt;
+Cliente: &lt;Unimetrocamp&gt;
 
-CNPJ/CPF: &lt;CNPJ/CPF do cliente&gt;
+CNPJ/CPF: &lt;04.298.309/0004-03&gt;
 
-Contato: &lt;nome do contato&gt;
+Contato: &lt;Jose Alonso&gt;
 
-Email do contato: &lt;email do contato&gt;
+Email do contato: &lt;jose.lsilva@unimetrocamp.edu.br&gt;
 
 <table><thead><tr><th><h1><a id="_heading=h.30j0zll"></a><strong>Equipe de Desenvolvimento</strong></h1></th></tr></thead></table>
 
@@ -58,20 +58,20 @@ Email do contato: &lt;email do contato&gt;
 
 | **Nome completo** | **Curso** | **Disciplina** |
 | --- | --- | --- |
-| &lt;integrante 1&gt; | &lt;nome do curso&gt; | &lt;nome da disciplina&gt; |
+| &lt;Keven Kleber&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
 | --- | --- | --- |
-| &lt;integrante 2&gt; | &lt;nome do curso&gt; | &lt;nome da disciplina&gt; |
+| &lt;Gustavo Anacleto&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
 | --- | --- | --- |
-| &lt;integrante 3&gt; | &lt;nome do curso&gt; | &lt;nome da disciplina&gt; |
+| &lt;Vitor Augusto&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
 | --- | --- | --- |
-| &lt;integrante 4&gt; | &lt;nome do curso&gt; | &lt;nome da disciplina&gt; |
+| &lt;Pedro Lemos&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
 | --- | --- | --- |
-| &lt;integrante 5&gt; | &lt;nome do curso&gt; | &lt;nome da disciplina&gt; |
+| &lt;Thiago Lacerda&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
 | --- | --- | --- |
 
 | **Professor Orientador** |
 | --- |
-| &lt;nome completo do professor&gt; |
+| &lt;Kesede&gt; |
 | --- |
 
 <table><thead><tr><th><h1><a id="_heading=h.1fob9te"></a>Introdução</h1></th></tr></thead></table>
