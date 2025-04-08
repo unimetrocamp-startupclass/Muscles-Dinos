@@ -91,12 +91,18 @@ Fornecer uma ferramenta de baixo custo e fácil implementação que possa ser ut
 Ao alcançar esses objetivos, o projeto pretende contribuir com novas abordagens terapêuticas que combinem tecnologia e saúde, incentivando a recuperação ativa e divertida dos pacientes.
 
 <table><thead><tr><th><h1><a id="_heading=h.tyjcwt"></a>Backlogs do Produto</h1></th></tr></thead></table>
-
-&lt;Neste capítulo, teremos uma lista expandida do Escopo. Liste aqui os Requisitos levantados junto ao cliente e pela equipe de desenvolvimento. Os requisitos devem ter uma breve explicação do que se trata. Caso já tenha feito isso no Jira, basta copiar para cá.&gt;
+Requisitos funcionais: 
+  - O jogo deve ser similar ao jogo do dinossauro do google, porém sem a ação de agachar.
+  - O usuário conseguirá pular somente usando a contração muscular.
+Requisitos não funcionais: 
+  - O jogo deve ser feito com JavaScript, Html e Css puro.
+  - Ao ocorrer o estimulo muscular o sensor deve captar a informação, e enviar para o arduino.
+  - O ardunino deverá simular a pressão da barra de espaço, fazendo com que o usuário jogue o jogo.
 
 <table><thead><tr><th><h1><a id="_heading=h.3dy6vkm"></a>Cronograma</h1></th></tr></thead></table>
 
-&lt;Insira aqui uma imagem ou tabela de todo o planejamento do projeto (com atividades e datas). A periodicidade das tarefas será de 2 semanas. O cronograma deve abranger todo o processo de construção do projeto. Isso pode ser feito diretamente neste doc, no excel, canva etc&gt;
+![Captura de tela de 2025-04-08 20-23-15](https://github.com/user-attachments/assets/ce2f6541-4f5c-472b-99a0-0de81bd2e01a)
+
 
 <table><thead><tr><th><h1><a id="_heading=h.1t3h5sf"></a>Materiais e Métodos</h1></th></tr></thead></table>
 
