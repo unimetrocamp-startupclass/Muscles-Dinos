@@ -36,47 +36,59 @@ SUMÁRIO
 
 Título do Projeto: **MusclesAndDino: Gameficação da reabilitação muscular**
 
-Cliente: &lt;Unimetrocamp&gt;
+Cliente: Unimetrocamp
 
-CNPJ/CPF: &lt;04.298.309/0004-03&gt;
+CNPJ/CPF: 04.298.309/0004-03
 
-Contato: &lt;Jose Alonso&gt;
+Contato: Jose Alonso 
 
-Email do contato: &lt;jose.lsilva@unimetrocamp.edu.br&gt;
+Email do contato: jose.lsilva@unimetrocamp.edu.br
 
 <table><thead><tr><th><h1><a id="_heading=h.30j0zll"></a><strong>Equipe de Desenvolvimento</strong></h1></th></tr></thead></table>
 
-&lt;Elencar, na tabela abaixo, os dados dos integrantes e do professor-orientador.&gt;
+Elencar, na tabela abaixo, os dados dos integrantes e do professor-orientador.
 
 | **Nome completo** | **Curso** | **Disciplina** |
 | --- | --- | --- |
-| &lt;Keven Kleber&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
+| Keven Kleber | Ciência da Computação | Programação de Software Básico em C |
 | --- | --- | --- |
-| &lt;Gustavo Anacleto&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
+| Gustavo Anacleto | Ciência da Computação | Programação de Software Básico em C |
 | --- | --- | --- |
-| &lt;Vitor Augusto&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
+| Vitor Augusto | Ciência da Computação | Programação de Software Básico em C |
 | --- | --- | --- |
-| &lt;Pedro Lemos&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
+| Pedro Lemos | Ciência da Computação | Programação de Software Básico em C |
 | --- | --- | --- |
-| &lt;Thiago Lacerda&gt; | &lt;Ciência da Computação&gt; | &lt;Programação de Software Básico em C&gt; |
+| Thiago Lacerda | Ciência da Computação | &lt;Programação de Software Básico em C |
 | --- | --- | --- |
 
 | **Professor Orientador** |
 | --- |
-| &lt;Kesede&gt; |
+| Kesede |
 | --- |
 
 <table><thead><tr><th><h1><a id="_heading=h.1fob9te"></a>Introdução</h1></th></tr></thead></table>
 
-&lt;Dica: uma introdução ao projeto deve constar o problema constatado pelo cliente. Em seguida, deve ser relatado, resumidamente, como serão resolvidos. Comente sobre as tecnologias que serão utilizadas para resolver o problema e por fim, em apenas uma frase, descreva também como seu sistema vai modificar (impacto causado) no processo do cliente. Este texto pode ser usado no forms de inscrição no CPEI/JUPESQI&gt;
+A reabilitação muscular é um processo essencial para a recuperação de pacientes que sofreram lesões ou passaram por procedimentos que comprometeram suas capacidades motoras. No entanto, esse processo muitas vezes pode ser repetitivo, desmotivador e desgastante para os pacientes, o que pode afetar negativamente a adesão ao tratamento e, consequentemente, os resultados obtidos.
+
+Com o objetivo de tornar a reabilitação mais atrativa, envolvente e eficaz, este projeto propõe a gamificação do processo por meio de um jogo interativo. Inspirado no popular jogo do dinossauro do Google Chrome, desenvolvido para funcionar offline, criamos uma experiência lúdica onde as ações do personagem são controladas por estímulos musculares reais captados por sensores ECG conectados a um microcontrolador Arduino.
+
+Através da leitura de sinais eletromiográficos (EMG), o sistema é capaz de detectar contrações musculares específicas e traduzi-las em comandos dentro do jogo, promovendo a movimentação do personagem em resposta às ações do usuário. Essa abordagem busca não apenas melhorar o engajamento do paciente durante a terapia, mas também fornecer um ambiente controlado e monitorável para profissionais da saúde avaliarem o progresso do tratamento.
 
 <table><thead><tr><th><h1><a id="_heading=h.3znysh7"></a>Objetivo</h1></th></tr></thead></table>
 
-&lt;Dica: Qual problema que o cliente enfrenta, o qual será resolvido através de um sistema computadorizado? Por exemplo, “Automatizar o atendimento de balcão para que os pedidos sejam emitidos de forma automática para a cozinha do restaurante.&gt;
+O principal objetivo deste projeto é desenvolver uma solução interativa que una tecnologia e entretenimento para auxiliar no processo de reabilitação muscular de forma mais eficiente e motivadora. Por meio da gamificação, busca-se transformar exercícios fisioterapêuticos repetitivos em uma experiência mais atrativa e lúdica para o paciente.
 
-<table><thead><tr><th><h1><a id="_heading=h.2et92p0"></a>Escopo</h1></th></tr></thead></table>
+Especificamente, o projeto tem como metas:
 
-&lt;Escopo é o que será implementado no sistema. Coloque aqui os requisitos principais que serão implementados e até que ponto serão implementados, ou seja, quais os limites de implementação. Os requisitos citados aqui devem ser macros, ou seja, 2 ou 3 requisitos principais. Também é bom citar o que não será implementado.&gt;
+Criar um jogo baseado no modelo do dinossauro do Google Chrome, com jogabilidade simples e acessível;
+
+Utilizar sensores ECG conectados a um microcontrolador Arduino para captar sinais musculares e transformá-los em comandos dentro do jogo;
+
+Promover maior engajamento e adesão dos pacientes às sessões de reabilitação;
+
+Fornecer uma ferramenta de baixo custo e fácil implementação que possa ser utilizada por profissionais da saúde em ambientes clínicos ou domiciliares.
+
+Ao alcançar esses objetivos, o projeto pretende contribuir com novas abordagens terapêuticas que combinem tecnologia e saúde, incentivando a recuperação ativa e divertida dos pacientes.
 
 <table><thead><tr><th><h1><a id="_heading=h.tyjcwt"></a>Backlogs do Produto</h1></th></tr></thead></table>
 
