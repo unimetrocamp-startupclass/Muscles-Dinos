@@ -58,7 +58,7 @@ Elencar, na tabela abaixo, os dados dos integrantes e do professor-orientador.
 | --- | --- | --- |
 | Pedro Lemos | Ciência da Computação | Programação de Software Básico em C |
 | --- | --- | --- |
-| Thiago Lacerda | Ciência da Computação | &lt;Programação de Software Básico em C |
+| Thiago Lacerda | Ciência da Computação | Programação de Software Básico em C |
 | --- | --- | --- |
 
 | **Professor Orientador** |
