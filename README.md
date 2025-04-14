@@ -148,11 +148,10 @@ Ao final da apresentação, o sistema foi homologado pelo cliente.
 
 - 1. **Linkedin do Projeto**
 
-<A página do Linkedin do projeto deve ter o logo do LTD, o titulo do projeto, um breve resumo, o nome dos integrantes e o nome do professor-orientador. Insira também o link do repositório do projeto no GitHub. Neste perfil, deve ser postado a cada Sprint, os artefatos produzidos (diagramas, videos explicativos de códigos, artigo sobre determinado tema vinculado ao desenvolvimento do projeto). Promova engajamento e networking conectando-se a profissionais da área, compartilhamentos, comentários etc.
 
-Insira o linnk deste perfil com o seu perfil pessoal do Linkedin.
 
-| &lt;print da tela de perfil do Linkedin&gt; | &lt;link da pág do Linkedin&gt; |
+| ![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
+ | https://www.linkedin.com/in/dino-muscles-ab83b0360/ |
 | --- | --- |
 
 - 1. **Seminário de Projetos de Software**
