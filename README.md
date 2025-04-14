@@ -144,9 +144,8 @@ Ao final da apresentação, o sistema foi homologado pelo cliente.
 
 
 
-| ![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
- | https://www.linkedin.com/in/dino-muscles-ab83b0360/ |
-| --- | --- |
+![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
+| https://www.linkedin.com/in/dino-muscles-ab83b0360/ |
 
 - 1. **Seminário de Projetos de Software**
 
