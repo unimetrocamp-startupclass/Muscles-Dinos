@@ -95,16 +95,19 @@ Requisitos não funcionais:
 
 ![Captura de tela de 2025-04-08 20-23-15](https://github.com/user-attachments/assets/ce2f6541-4f5c-472b-99a0-0de81bd2e01a)
 
-
 <table><thead><tr><th><h1><a id="_heading=h.1t3h5sf"></a>Materiais e Métodos</h1></th></tr></thead></table>
 
 - 1. **Modelagem do sistema**:
      
      ![Captura de tela de 2025-04-28 20-04-34](https://github.com/user-attachments/assets/d6e88c00-3090-4eea-b225-228797c8cad0)
 
-   3. **Tecnologias utilizadas**: Para desenvolver o jogo utilizamos HTML, CSS e JavaScript, para captar os estimulos musculares, um sensor ECG, como meio de integração com sensor o Arduino Mega e para o código, C++;
-  4. **Arquitetura do sistema**:
+  2. **Tecnologias utilizadas**:
+    
+  Para desenvolver o jogo utilizamos HTML, CSS e JavaScript, para captar os estimulos musculares, um sensor ECG, como meio de integração com sensor o Arduino Mega e para o código, C++;
+  
+  3. **Arquitetura do sistema**:
      
+  ![Image](https://github.com/user-attachments/assets/0e5243aa-0ceb-42df-8532-b7b8dacd74c3)
 
 <table><thead><tr><th><h1><a id="_heading=h.4d34og8"></a>Resultados</h1></th></tr></thead></table>
 
