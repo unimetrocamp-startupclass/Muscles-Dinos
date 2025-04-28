@@ -104,15 +104,133 @@ Requisitos não funcionais:
   2. **Tecnologias utilizadas**: &lt;Dica: escreva quais linguagens foram utilizadas, quais frameworks, bibliotecas e API’s consumidas/criadas. Quais ferramentas foram usadas para desenho dos modelos. Para cada um deles, faça uma pequena descrição de uso.&gt;
   3. **Arquitetura do sistema**: <Dica: insira aqui uma imagem contendo a arquitetura do sistema e o fluxo das informações. Se a arquitetura for muito simples, detalhe o fluxo dos processos. (veja um exemplo na figura 1 (pag. 79) deste artigo: [Monitor de WhatsApp: Um Sistema para Checagem de Fatos no Combate à Desinformação](https://www.researchgate.net/publication/355943388_Monitor_de_WhatsApp_Um_Sistema_para_Checagem_de_Fatos_no_Combate_a_Desinformacao)\>. Este diagrama será muito bom para usar no banner da FENETEC.
 
+
 <table><thead><tr><th><h1><a id="_heading=h.4d34og8"></a>Resultados</h1></th></tr></thead></table>
 
-- 1. **Protótipo**: &lt;Dica: são as telas do software e suas descrições. Em cada uma delas, descreva as ações possíveis do usuário e reações do sistema. Isto pode ser feito através do print das telas do seu sistema. As telas não podem ocupar muito espaço da página, porém também não podem ficar ilegíveis&gt;
-  2. **Códigos das principais funcionalidades**: &lt;Dica: copy-cole aqui as seções mais relevantes do seu código. Insira comentários sobre cada seção.&gt;
+- 1. **Protótipo**:
+     ![Captura de tela 2025-04-28 192808](https://github.com/user-attachments/assets/9102e8f6-7a89-451b-a1aa-e1f8a246e626)
+     Imagem referente ao jogo Dino, responsável por interligar o game com o processo de reabilitação muscular. O usuário através do movimento da fisioterapia conseguiria pular os obstaculos com o dinossauro.
+  2. **Códigos das principais funcionalidades**:
+
+      const character = document.getElementById('character');
+      const scoreEl = document.getElementById('score');
+      const timerEl = document.getElementById('timer');
+      const somPonto = document.getElementById('somPonto');
+      const game = document.getElementById('game');
+      
+      let isJumping = false;
+      let score = 0;
+      let time = 0;
+      let timerInterval;
+      let obstacles = [];
+      
+      function jump() {
+        if (isJumping) return;
+        isJumping = true;
+        let jumpHeight = 150;
+        let upInterval = setInterval(() => {
+          let bottom = parseInt(window.getComputedStyle(character).bottom);
+          if (bottom >= jumpHeight + 40) {
+            clearInterval(upInterval);
+            let downInterval = setInterval(() => {
+              bottom = parseInt(window.getComputedStyle(character).bottom);
+              if (bottom <= 40) {
+                character.style.bottom = '30px';
+                clearInterval(downInterval);
+                isJumping = false;
+              } else {
+                character.style.bottom = bottom - 5 + 'px';
+              }
+            }, 20);
+          } else {
+            character.style.bottom = bottom + 5 + 'px';
+          }
+        }, 20);
+      }
+      
+      function startGame() {
+        score = 0;
+        time = 0;
+        scoreEl.textContent = 'Score: 0';
+        timerEl.textContent = 'Tempo: 0s';
+        obstacles.forEach(obs => obs.remove());
+        obstacles = [];
+      
+        timerInterval = setInterval(() => {
+          time++;
+          timerEl.textContent = `Tempo: ${time}s`;
+        }, 1000);
+      
+        spawnObstacle();
+      }
+      
+      function spawnObstacle() {
+        const obstacle = document.createElement('div');
+        obstacle.classList.add('obstacle');
+        obstacle.style.right = '-60px';
+        game.appendChild(obstacle);
+        obstacles.push(obstacle);
+        moveObstacle(obstacle);
+      
+        setTimeout(spawnObstacle, Math.random() * 3000 + 1000);
+      }
+      
+      function moveObstacle(obstacle) {
+        let hasScored = false;
+        let moveInterval = setInterval(() => {
+          let obstacleRight = parseInt(window.getComputedStyle(obstacle).right);
+          if (obstacleRight >= window.innerWidth + 60) {
+            obstacle.remove();
+            obstacles = obstacles.filter(obs => obs !== obstacle);
+            clearInterval(moveInterval);
+          } else {
+            obstacle.style.right = obstacleRight + 10 + 'px';
+          }
+      
+          const characterRect = character.getBoundingClientRect();
+          const obstacleRect = obstacle.getBoundingClientRect();
+      
+          if (
+            characterRect.right > obstacleRect.left &&
+            characterRect.left < obstacleRect.right &&
+            characterRect.bottom > obstacleRect.top
+          ) {
+            gameOver();
+            clearInterval(moveInterval);
+          }
+      
+          if (!hasScored && obstacleRect.right < characterRect.left) {
+            score++;
+            scoreEl.textContent = `Score: ${score}`;
+            somPonto.play();
+            hasScored = true;
+          }
+        }, 30);
+      }
+      
+      function gameOver() {
+        clearInterval(timerInterval);
+        alert(`Game Over!\nVocê marcou ${score} ponto(s) em ${time} segundo(s).`);
+        location.reload();
+      }
+      
+      document.addEventListener('keydown', function (e) {
+        if (e.code === 'Space' || e.code === 'ArrowUp') {
+          jump();
+        }
+      });
+      
+      // Adiciona suporte para clique e toque na tela (mobile)
+      document.addEventListener('click', jump);
+      document.addEventListener('touchstart', jump);
+      
+      
+      startGame();
 
 <table><thead><tr><th><h1><a id="_heading=h.2s8eyo1"></a>Conclusão</h1></th></tr></thead></table>
 
-- 1. **Impacto do sistema:** &lt;Dica: como o sistema impactou (alterou positivamente) o processo do cliente&gt;
-  2. **Melhorias Futuras**: &lt;Dica: elencar, pelo menos, uma melhoria que poderá ser realizada futuramente no sistema.&gt;
+- 1. **Impacto do sistema:** Tornou o processo de reabilitação muscular mais lúdico e inovador ao cliente, gamificando a fisioterapia.
+  2. **Melhorias Futuras**: Podemos melhorar o sensor responsável pela captação dos estímulos musculares. Além disso, criar novos jogos, com uma gama de opções para o paciente escolher.
 
 <table><thead><tr><th><h1><a id="_heading=h.17dp8vu"></a>Homologação do MVP junto ao cliente</h1></th></tr></thead></table>
 
@@ -141,9 +259,7 @@ Ao final da apresentação, o sistema foi homologado pelo cliente.
 <table><thead><tr><th><h1><a id="_heading=h.3rdcrjn"></a>Divulgação</h1></th></tr></thead></table>
 
 - 1. **Linkedin do Projeto**
-
-
-
+  2. 
 ![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
 | https://www.linkedin.com/in/dino-muscles-ab83b0360/ |
 
