@@ -1,5 +1,3 @@
-![Captura de tela de 2025-04-28 20-04-34](https://github.com/user-attachments/assets/e4b982fc-600d-4b50-b3c0-8200f0bba5f2)**Documentação do Sistema**
-
 SUMÁRIO
 
 [Dados do Cliente 2](#_heading=h.gjdgxs)
