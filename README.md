@@ -50,7 +50,7 @@ Elencar, na tabela abaixo, os dados dos integrantes e do professor-orientador.
 | --- | --- | --- |
 | Keven Kleber | Ciência da Computação | Programação de Software Básico em C |
 | Gustavo Anacleto | Ciência da Computação | Programação de Software Básico em C 
-| Vitor Augusto | Ciência da Computação | Programação de Software Básico em C |
+| Vitor Dreger | Ciência da Computação | Programação de Software Básico em C |
 | Pedro Lemos | Ciência da Computação | Programação de Software Básico em C |
 | Thiago Lacerda | Ciência da Computação | Programação de Software Básico em C |
 
