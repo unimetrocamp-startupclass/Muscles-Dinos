@@ -100,10 +100,13 @@ Requisitos não funcionais:
 
 <table><thead><tr><th><h1><a id="_heading=h.1t3h5sf"></a>Materiais e Métodos</h1></th></tr></thead></table>
 
-- 1. **Modelagem do sistema**: <Dica: a modelagem do seu sistema são diagramas (desenhos) da sua estrutura ou comportamento. A UML (Unified Modelling Language) oferece diversos diagramas para que você possa modelar seu sistema. Escolha, pelo menos, dois modelos e insira aqui. Por exemplo, Modelo de Dados (Diagrama de Classe ou MER), Casos de Uso, Diagrama de Sequência, Diagrama de Atividades etc. Estes modelos são próprios para construção da comunicação, entendimento e implantação dos requisitos do sistema. Você pode usar ferramentas, como: LucidChart, Draw.io etc. Veja exemplos em [Diagramas UML: exemplo e modelos | Lucidchart Blog](https://www.lucidchart.com/blog/pt/modelos-e-exemplos-de-diagramas-uml)\>. Recomendo os diagramas: Caso de Uso: mostra as relações entre Atores e Processos, Diagrama de Classes: mostra as relações entre as classes (quando houver) do sistema e o MER (Modelo Entidade-Relacionamento): mostra as relações entre os dados das tabelas de BD. Mas cada sistema pede diagramas diferentes. Portanto, aplique conforme necessidade;
-  2. **Tecnologias utilizadas**: Para desenvolver o jogo utilizamos HTML, CSS e JavaScript, para captar os estimulos musculares, um sensor ECG, como meio de integração com sensor o Arduino Mega e para o código, C++;
-  3. **Arquitetura do sistema**:
+- 1. **Modelagem do sistema**:
+     
      ![Captura de tela de 2025-04-28 20-04-34](https://github.com/user-attachments/assets/d6e88c00-3090-4eea-b225-228797c8cad0)
+
+   3. **Tecnologias utilizadas**: Para desenvolver o jogo utilizamos HTML, CSS e JavaScript, para captar os estimulos musculares, um sensor ECG, como meio de integração com sensor o Arduino Mega e para o código, C++;
+  4. **Arquitetura do sistema**:
+     
 
 <table><thead><tr><th><h1><a id="_heading=h.4d34og8"></a>Resultados</h1></th></tr></thead></table>
 
