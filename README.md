@@ -358,7 +358,7 @@ Eu, (preencher com nome do responsável), (preencher com cargo ocupado), da (nom
 Conforme combinado em contato prévio, as atividades acima descritas são autorizadas para os seguintes alunos:
 
 | **Nome dos/das alunos/as** | **Curso** | **Matrícula** |
-| --- | --- | --- |
+| Gustavo Santimaria Anacleto | --- | --- |
 |     |     |     |
 | --- | --- | --- |
 |     |     |     |
@@ -378,7 +378,7 @@ Desta forma, autorizo, em caráter de confidencialidade:
 - o registro de imagem por meio de fotografias;
 - outro: (especificar)
 
-Campinas, \___de \_**\_**\___\__de 202_.
+Campinas, 21 de maio de 2025.
 
 \_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**_
 
@@ -386,27 +386,27 @@ Campinas, \___de \_**\_**\___\__de 202_.
 
 <table><thead><tr><th><h1><a id="_heading=h.35nkun2"></a>Relato individual do processo</h1></th></tr></thead></table>
 
-| &lt;nome do aluno&gt; |
+| Gustavo Santimaria Anacleto |
 | --- |
-| &lt;um breve relato pessoal sobre o trabalho extensionista desenvolvido&gt; |
-| --- |
-
-| &lt;nome do aluno&gt; |
-| --- |
-| &lt;um breve relato pessoal sobre o trabalho extensionista desenvolvido&gt; |
+| Trabalhar nesse projeto foi muito interessante. Usamos Arduino e sensor ECG para captar os sinais musculares e conectamos isso a um jogo desenvolvido com HTML, CSS e JavaScript, inspirado no Dino do Google. A ideia de unir reabilitação com uma experiência lúdica trouxe um grande aprendizado, mostrando como a tecnologia pode ser aplicada de forma criativa para melhorar processos de saúde. |
 | --- |
 
-| &lt;nome do aluno&gt; |
+| Keven Kleber dos Santos |
 | --- |
-| &lt;um breve relato pessoal sobre o trabalho extensionista desenvolvido&gt; |
-| --- |
-
-| &lt;nome do aluno&gt; |
-| --- |
-| &lt;um breve relato pessoal sobre o trabalho extensionista desenvolvido&gt; |
+| Desenvolver esse projeto foi uma experiência muito positiva para mim. Criamos um jogo baseado no Dino do Google, usando HTML, CSS e JavaScript, integrado a um sensor ECG com Arduino, para tornar a reabilitação muscular mais divertida. Além de aprender mais sobre essas tecnologias, percebi como a tecnologia pode ter um impacto real na saúde e no bem-estar das pessoas. |
 | --- |
 
-| &lt;nome do aluno&gt; |
+| Pedro Henrique Lemos Santimaria |
 | --- |
-| &lt;um breve relato pessoal sobre o trabalho extensionista desenvolvido&gt; |
+| Participar desse projeto foi uma ótima oportunidade de trabalhar em equipe e unir diferentes conhecimentos. Cada um contribuiu com uma parte — desde a programação do sensor com Arduino até o desenvolvimento do jogo com JavaScript. Aprendi muito sobre integração de hardware com software e como o trabalho em conjunto é essencial para criar algo funcional e inovador. |
+| --- |
+
+| Thiago Lacerda |
+| --- |
+| O que mais me motivou nesse projeto foi pensar na utilidade real da solução. Desenvolver um jogo que auxilia na reabilitação muscular, deixando o processo mais leve e divertido, mostrou como pequenas ideias podem ter grande impacto. Foi gratificante ver que, com ferramentas acessíveis, conseguimos criar algo que pode ajudar pessoas de verdade. |
+| --- |
+
+| Vitor Dreger |
+| --- |
+| Esse projeto foi um grande passo para mim no desenvolvimento técnico. Eu nunca tinha trabalhado com sensores ECG nem integrado hardware com um jogo em JavaScript. Pesquisar, testar e ver tudo funcionando foi muito gratificante. Sinto que evoluí muito, especialmente na parte de lógica e na construção de interfaces interativas. |
 | --- |
