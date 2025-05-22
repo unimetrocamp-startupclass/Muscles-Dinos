@@ -233,8 +233,11 @@ Requisitos não funcionais:
 
 <table><thead><tr><th><h1><a id="_heading=h.2s8eyo1"></a>Conclusão</h1></th></tr></thead></table>
 
-- 1. **Impacto do sistema:** Tornou o processo de reabilitação muscular mais lúdico e inovador ao cliente, gamificando a fisioterapia.
-  2. **Melhorias Futuras**: Podemos melhorar o sensor responsável pela captação dos estímulos musculares. Além disso, criar novos jogos, com uma gama de opções para o paciente escolher.
+1. Impacto do sistema:
+O sistema desenvolvido teve um impacto significativo ao transformar o processo de reabilitação muscular em uma atividade mais lúdica, interativa e motivadora. Ao gamificar a fisioterapia por meio de um jogo baseado no Dino do Google, conseguimos engajar o paciente de forma leve e divertida, o que pode contribuir para uma maior adesão ao tratamento. A utilização de um sensor ECG integrado ao Arduino permitiu captar os sinais musculares e usá-los como controle no jogo, aproximando a mecânica da reabilitação com a experiência de jogo. Isso representa uma inovação importante, especialmente para pacientes que enfrentam longos processos de recuperação e que muitas vezes perdem a motivação ao longo do tempo. A abordagem adotada demonstra como a tecnologia pode humanizar e dinamizar tratamentos na área da saúde.
+
+2. Melhorias Futuras:
+Apesar dos resultados positivos, o projeto ainda tem grande potencial de evolução. Uma das melhorias mais relevantes seria o aperfeiçoamento do sensor de captação dos estímulos musculares, tornando-o mais sensível, preciso e confortável para o usuário. Isso permitiria leituras mais confiáveis, contribuindo para uma resposta mais eficaz dentro do jogo. Além disso, a criação de novos jogos pode ampliar o engajamento dos pacientes, oferecendo diferentes estilos e níveis de dificuldade, adaptados ao perfil e progresso de cada um. Com uma variedade maior, é possível manter a motivação do paciente por mais tempo e até personalizar os exercícios de reabilitação de forma mais eficaz. Essas melhorias tornariam o sistema ainda mais robusto, versátil e atrativo para o uso em diferentes contextos clínicos.
 
 <table><thead><tr><th><h1><a id="_heading=h.17dp8vu"></a>Homologação do MVP junto ao cliente</h1></th></tr></thead></table>
 
@@ -262,9 +265,8 @@ Ao final da apresentação, o sistema foi homologado pelo cliente.
 
 <table><thead><tr><th><h1><a id="_heading=h.3rdcrjn"></a>Divulgação</h1></th></tr></thead></table>
 
-- 1. | https://www.linkedin.com/in/dino-muscles-ab83b0360/ |
-  2. 
-![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
+  1. Linkedin: https://www.linkedin.com/in/dino-muscles-ab83b0360/
+  2. ![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
 
 - 1. **Seminário de Projetos de Software**
 
@@ -312,13 +314,13 @@ Segue abaixo a lista de presentes na FENETEC.
 
 <table><thead><tr><th><h1><a id="_heading=h.26in1rg"></a>Carta de Apresentação</h1></th></tr></thead></table>
 
-Vimos por desta apresentar o grupo de acadêmicos do Centro Universitário Unimetrocamp, localizada à Rua Sales de Oliveira, 1661 - Campinas - SP, a fim de convidá-lo a participar de uma atividade extensionista associada ao componente curricular &lt;inserir o nome da disciplina&gt;, sob responsabilidade do orientador Prof. Kesede Rodrigues Julio (<profkesede64@gmail.com>).
+Vimos por desta apresentar o grupo de acadêmicos do Centro Universitário Unimetrocamp, localizada à Rua Sales de Oliveira, 1661 - Campinas - SP, a fim de convidá-lo a participar de uma atividade extensionista associada ao componente curricular PROGRAMAÇÃO DE SOFTWARE BÁSICO EM C, sob responsabilidade do orientador Prof. Kesede Rodrigues Julio (<profkesede64@gmail.com>).
 
 Em consonância ao Plano Nacional de Educação vigente, o Centro Universitário Unimetrocamp promove o Desenvolvimento de Software que, norteados pela metodologia de Gerenciamento Ágil Scrum, tem por princípios fundantes o diagnóstico dos problemas/demandas/necessidades, a participação ativa dos interessados/públicos participantes, a construção dialógica, coletiva e experiencial de conhecimentos, o planejamento de ações, o desenvolvimento e avaliação das ações, a sistematização dos conhecimentos, a avaliação das ações desenvolvidas.
 
 Nesse contexto, a disciplina acima mencionada tem como principal escopo os temas relacionados à Programação Orientada à Objeto / Padrões de Projetos de Software, no que diz respeito ao desenvolvimento de um software utilizando Programação Orientada à Objeto.
 
-Sendo assim, pedimos o apoio de &lt;nome do cliente&gt; para a realização das seguintes atividades: levantamento de requisitos, validação das entregas parciais, revalidação dos requisitos, homologação do MVP, ou qualquer outra intervenção que auxilie no desenvolvimento das competências de nossos acadêmicos e ao mesmo tempo possa contribuir para a comunidade em que estamos inseridos.
+Sendo assim, pedimos o apoio de Fabiola Caruso; para a realização das seguintes atividades: levantamento de requisitos, validação das entregas parciais, revalidação dos requisitos, homologação do MVP, ou qualquer outra intervenção que auxilie no desenvolvimento das competências de nossos acadêmicos e ao mesmo tempo possa contribuir para a comunidade em que estamos inseridos.
 
 Aproveitamos a oportunidade para solicitarmos, em caso de aceite, que a parceria seja formalizada, mediante assinatura da Carta de Autorização, as atividades e informações que o(s) aluno(s) poderá(ão) ter acesso.
 
@@ -328,7 +330,7 @@ Desde já nos colocamos à sua disposição para quaisquer esclarecimentos.
 
 Atenciosamente,
 
-Campinas, \____ de \_**\_**\___ de 202_\__.![](data:image/jpeg;base64,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)
+Campinas, 22 de maio de 20225.![](data:image/jpeg;base64,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)
 
 \_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**
 
@@ -342,7 +344,7 @@ Campinas, \____ de \_**\_**\___ de 202_\__.![](data:image/jpeg;base64,/9j/4AAQSk
 
 <table><thead><tr><th><h1><a id="_heading=h.lnxbz9"></a>Carta de Autorização</h1></th></tr></thead></table>
 
-Eu, (preencher com nome do responsável), (preencher com cargo ocupado), da (nome da empresa, organização, associação, escola, secretaria, etc., situada no endereço – inserir o endereço), autorizo a realização das seguintes atividades acadêmicas do componente extensionista &lt;código e nome da disciplina&gt;, do Centro Universitário Unimetrocamp, sob orientação do Prof. Kesede Rodrigues Julio.
+Eu, Fabiola Caruso, professora de fisioterapia, da Wyden Unimetrocamp, autorizo a realização das seguintes atividades acadêmicas do componente extensionista ARA0363 - PROGRAMAÇÃO DE SOFTWARE BÁSICO EM C, do Centro Universitário Unimetrocamp, sob orientação do Prof. Kesede Rodrigues Julio.
 
 | **Atividades:** |
 | --- |
@@ -358,15 +360,15 @@ Eu, (preencher com nome do responsável), (preencher com cargo ocupado), da (nom
 Conforme combinado em contato prévio, as atividades acima descritas são autorizadas para os seguintes alunos:
 
 | **Nome dos/das alunos/as** | **Curso** | **Matrícula** |
-| Gustavo Santimaria Anacleto | --- | --- |
+| Gustavo Santimaria Anacleto | Ciência da Computação | 202302379567 |
 |     |     |     |
-| --- | --- | --- |
+| Keven Kleber dos Santos | Ciência da Computação | 202302680518 |
 |     |     |     |
-| --- | --- | --- |
+| Pedro Henrique Lemos Santimaria | Ciência da Computação | 202302379061 |
 |     |     |     |
-| --- | --- | --- |
+| Thiago Lacerda | Ciência da Computação | 202302379567 |
 |     |     |     |
-| --- | --- | --- |
+| Vitor Dreger | Ciência da Computação | 202303038674 |
 |     |     |     |
 | --- | --- | --- |
 
@@ -376,9 +378,8 @@ Desta forma, autorizo, em caráter de confidencialidade:
 
 - o acesso a informações e dados que forem necessários à execução da atividade;
 - o registro de imagem por meio de fotografias;
-- outro: (especificar)
 
-Campinas, 21 de maio de 2025.
+Campinas, 22 de maio de 2025.
 
 \_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**_
 
