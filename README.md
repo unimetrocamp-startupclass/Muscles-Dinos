@@ -262,10 +262,9 @@ Ao final da apresentação, o sistema foi homologado pelo cliente.
 
 <table><thead><tr><th><h1><a id="_heading=h.3rdcrjn"></a>Divulgação</h1></th></tr></thead></table>
 
-- 1. **Linkedin do Projeto**
+- 1. | https://www.linkedin.com/in/dino-muscles-ab83b0360/ |
   2. 
 ![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
-| https://www.linkedin.com/in/dino-muscles-ab83b0360/ |
 
 - 1. **Seminário de Projetos de Software**
 
