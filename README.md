@@ -265,7 +265,7 @@ Ao final da apresentação, o sistema foi homologado pelo cliente.
 
   1. Link: https://www.linkedin.com/in/dino-muscles-ab83b0360/
   2.
-![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
+  ![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
 
 - 1. **FENETEC: Feira de Negócios em Tecnologia**
 
@@ -337,6 +337,7 @@ Eu, Fabiola Caruso, professora de fisioterapia, da Wyden Unimetrocamp, autorizo 
 Conforme combinado em contato prévio, as atividades acima descritas são autorizadas para os seguintes alunos:
 
 | **Nome dos/das alunos/as** | **Curso** | **Matrícula** |
+
 | Gustavo Santimaria Anacleto | Ciência da Computação | 202302379567 |
 |     |     |     |
 | Keven Kleber dos Santos | Ciência da Computação | 202302680518 |
