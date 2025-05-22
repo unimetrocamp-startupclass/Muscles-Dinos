@@ -339,15 +339,15 @@ Conforme combinado em contato prévio, as atividades acima descritas são autori
 | **Nome dos/das alunos/as** | **Curso** | **Matrícula** |
 
 | Gustavo Santimaria Anacleto | Ciência da Computação | 202302379567 |
-|     |     |     |
+
 | Keven Kleber dos Santos | Ciência da Computação | 202302680518 |
-|     |     |     |
+
 | Pedro Henrique Lemos Santimaria | Ciência da Computação | 202302379061 |
-|     |     |     |
+
 | Thiago Lacerda | Ciência da Computação | 202302379567 |
-|     |     |     |
+
 | Vitor Dreger | Ciência da Computação | 202303038674 |
-|     |     |     |
+
 | --- | --- | --- |
 
 Declaro que fui informado por meio da **Carta de Apresentação** sobre as características e objetivos das atividades que serão realizadas na organização/instituição/empresa a qual represento e afirmo estar ciente de tratar-se de uma atividade realizada com intuito **exclusivo de ensino de alunos de graduação**, sem a finalidade de exercício profissional.
