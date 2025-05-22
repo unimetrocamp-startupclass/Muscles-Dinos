@@ -243,8 +243,6 @@ Apesar dos resultados positivos, o projeto ainda tem grande potencial de evoluç
 
 Após as entregas parciais, realizadas de acordo com os requisitos do sistema e cronograma, o MVP foi apresentado em uma reunião, realizada entre o time de desenvolvedores e o cliente.
 
-&lt;Dica: inserir uma foto da homologação em cada linha do quadro abaixo. Serão 4 fotos (tiradas no momento da homologação) e, na linha debaixo, uma legenda para cada uma delas. A homologação, preferencialmente, deve ser presencial. Se não for viável, pode ser feita por videoconferência com prints da tela.&gt;
-
 | &lt;foto 1: foto do time e cliente com o primeiro slide de fundo&gt; | &lt;foto 2: foto de um integrante apresentando o MVP.&gt; |
 | --- | --- |
 | Da esquerda para direita: &lt;legenda 1: descreva quem está na foto&gt; | &lt;legenda 2: coloque o nome de quem está apresentando&gt; |
@@ -267,28 +265,6 @@ Ao final da apresentação, o sistema foi homologado pelo cliente.
 
   1. Linkedin: https://www.linkedin.com/in/dino-muscles-ab83b0360/
   2. ![Captura de tela 2025-04-14 194719](https://github.com/user-attachments/assets/5f588be9-4fda-46f1-a388-67829f5800b1)
-
-- 1. **Seminário de Projetos de Software**
-
-**Vídeo da apresentação:** &lt;Grave sua apresentação, poste no Linkedin do projeto e insira aqui o link público (acesso sem login) do vídeo da apresentação&gt;
-
-&lt;Na tabela abaixo, inserir uma foto da apresentação em cada linha. Serão 4 fotos (tiradas no momento da apresentação). Para cada foto, descreva uma legenda na linha de baixo.&gt;
-
-| &lt;foto 1: foto do time com o primeiro slide de fundo&gt; | &lt;foto 2: foto de um integrante apresentando o sistema.&gt; |
-| --- | --- |
-| Da esquerda para direita: &lt;legenda 1: descreva quem está na foto&gt; | &lt;legenda 2: coloque o nome de quem está apresentando&gt; |
-| --- | --- |
-| &lt;foto 3: foto plano geral da apresentação de frente para o fundo da sala&gt; | &lt;foto 4: foto plano geral da apresentação do fundo para a frente da sala&gt; |
-| --- | --- |
-| Participantes do evento assistindo a apresentação | Participantes do evento assistindo a apresentação |
-| --- | --- |
-
-Segue abaixo a lista de presentes na apresentação.
-
-| **Lista de presentes na Apresentação** |
-| --- |
-| &lt;Faça uma lista de presença numa folha A4, contendo no alto da folha “Seminários de Projetos de Software”. A lista deve conter ra, nome e assinatura dos presentes. Cole aqui a foto desta lista.&gt; |
-| --- |
 
 - 1. **FENETEC: Feira de Negócios em Tecnologia**
 
@@ -348,11 +324,11 @@ Eu, Fabiola Caruso, professora de fisioterapia, da Wyden Unimetrocamp, autorizo 
 
 | **Atividades:** |
 | --- |
-|     |
+|  Utilização de recursos do curso de Fisioterapia do Centro Universitário Unimetrocamp  |
 | --- |
-|     |
+|  Reunião para alinhamento com a cliente  |
 | --- |
-|     |
+|  Reunião do time dentro da sala de mecatrônica da faculdade, bem como a utilização de Arduino  |
 | --- |
 |     |
 | --- |
@@ -382,8 +358,6 @@ Desta forma, autorizo, em caráter de confidencialidade:
 Campinas, 22 de maio de 2025.
 
 \_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**\_**_
-
-(Assinatura, nome completo do responsável, email de contato e com carimbo da empresa)
 
 <table><thead><tr><th><h1><a id="_heading=h.35nkun2"></a>Relato individual do processo</h1></th></tr></thead></table>
 
