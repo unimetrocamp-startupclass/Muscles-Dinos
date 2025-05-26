@@ -243,20 +243,20 @@ Apesar dos resultados positivos, o projeto ainda tem grande potencial de evoluç
 
 Após as entregas parciais, realizadas de acordo com os requisitos do sistema e cronograma, o MVP foi apresentado em uma reunião, realizada entre o time de desenvolvedores e o cliente.
 
-| &lt;foto 1: foto do time e cliente com o primeiro slide de fundo&gt; | &lt;foto 2: foto de um integrante apresentando o MVP.&gt; |
+|  ![WhatsApp Image 2025-05-22 at 22 29 59](https://github.com/user-attachments/assets/ec7f76f6-2591-4eff-aad3-27f72572a48e)  | ![image](https://github.com/user-attachments/assets/25afa9da-3631-4e13-a420-acafe2f4ee5b) |
 | --- | --- |
-| Da esquerda para direita: &lt;legenda 1: descreva quem está na foto&gt; | &lt;legenda 2: coloque o nome de quem está apresentando&gt; |
+| Vitor Dreger, Keven Santos, Thiago Lacerda, Pedro Lemos e Gustavo Santimaria | Thiago Lacerda |
 | --- | --- |
-| &lt;foto 3: foto dos participantes assistindo a homologação&gt; | &lt;foto 4: foto do plano geral do local&gt; |
+| ![image](https://github.com/user-attachments/assets/a2f22d18-a7f1-41dd-a963-e6a8ca84cfe5) | ![image](https://github.com/user-attachments/assets/6829cc94-17dd-4c2a-a309-5777e658be25) |
 | --- | --- |
-| Participantes da homologação assistindo a apresentação | Participantes da homologação |
+| Fabiola Caruso | Vitor Dreger, Keven Santos, Thiago Lacerda, Pedro Lemos, Gustavo Santimaria e Fabiola Caruso |
 | --- | --- |
 
 Segue abaixo a lista de presentes na homologação do MVP.
 
 | **Lista de presentes na Homologação** |
 | --- |
-| &lt;Cole aqui a foto da lista de presentes na homologação.&gt; |
+| ![image](https://github.com/user-attachments/assets/d7294d3f-97bb-4210-bdc7-cc61dcb6f26f) |
 | --- |
 
 Ao final da apresentação, o sistema foi homologado pelo cliente.
